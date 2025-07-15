@@ -7,9 +7,9 @@ A simple web-based classroom application that allows instructors to add courses 
 ### [Live Demo](http://classroom.mernbook.com/ "MERN Classroom") 
 
 #### What you need to run this code
-1. Node (13.12.0)
-2. NPM (6.14.4) or Yarn (1.22.4)
-3. MongoDB (4.2.0)
+1. Node (22.16.0)
+2. NPM (10.9.2) or Yarn (3.5.1)
+3. MongoDB (8.0)
 
 ####  How to run this code
 1. Make sure MongoDB is running on your system
